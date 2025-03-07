@@ -1,10 +1,16 @@
 # Olá, eu sou Bruno Gonçalves de Oliveira 👋
 
-Sou estagiário de suporte técnico, cursando Ciência da Computação na ATITUS, com uma forte paixão por tecnologia e desenvolvimento de software. Com uma base sólida em **Python**, **JavaScript**, **HTML**, e **CSS**, estou aprimorando minhas habilidades tanto em **front-end** quanto em **back-end**.
+Sou Estagiário de Back-end Java Development (Spring Boot), onde estou aprofundando meus conhecimentos em Java, Spring Boot e AWS. Tenho experiência prévia em suporte técnico, o que me proporcionou uma base sólida na resolução de problemas e atendimento ao cliente.
+
+Atualmente, curso Ciência da Computação na ATITUS, desenvolvendo habilidades em Java, Python e JavaScript. Além disso, tenho inglês avançado e conhecimento em cibersegurança, com experiência em metodologias ágeis como Kanban e Scrum.
+
+Sou apaixonado por tecnologia e estou sempre buscando aprender novas ferramentas e aprimorar minhas habilidades, com o objetivo de me tornar um desenvolvedor completo. Meu foco é contribuir para projetos inovadores e colaborar com equipes ágeis para criar soluções eficientes e escaláveis.
 
 ## Sobre Mim
 
-Além da experiência prática em suporte técnico, estou constantemente buscando aprender e aplicar novos conhecimentos no desenvolvimento de software. Tenho um grande interesse em inovar e criar soluções que facilitam o dia a dia, tanto no trabalho quanto em projetos pessoais.
+Além da experiência prática em suporte técnico, estou sempre buscando aprender e aplicar novos conhecimentos no desenvolvimento de software, com ênfase em Java e Spring Boot. Tenho um grande interesse em inovar e criar soluções eficientes, seja no ambiente profissional ou em projetos pessoais.
+
+Meu objetivo é aprimorar constantemente minhas habilidades, explorando boas práticas de desenvolvimento, arquitetura de software e novas tecnologias.
 
 Estou sempre aberto a novas oportunidades de aprendizado e colaboração. Vamos nos conectar!
 
